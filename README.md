@@ -14,7 +14,7 @@ O projeto aborda conceitos fundamentais de construção de APIs, autenticação,
 
 ### Objetivos do projeto
 - Aprender os fundamentos do FastAPI
-- Criar APIs RESTful
+- Criar APIs
 - Trabalhar com banco de dados usando ORM
 - Estruturar um backend de forma organizada
 - Documentar endpoints automaticamente com Swagger
